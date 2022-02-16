@@ -130,6 +130,7 @@ display: block;
 
 .laptop{
   float: left;
+  margin: auto 5px;
   margin-left: 110px 1110px 1000px 30px;
 }
 
