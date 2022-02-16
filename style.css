@@ -6,7 +6,9 @@ margin: auto;
 
 body{
   font-family: "Helvetica";
-  background-color: #FFC9EF
+  background-color: #FFC9EF;
+height: 100%;
+ overflow: hidden
 ;
 
 }
