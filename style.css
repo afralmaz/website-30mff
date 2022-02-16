@@ -130,8 +130,8 @@ display: block;
 
 .laptop{
   float: right;
-  margin: auto 1px;
-  margin-left: 1100px 1100px 1000px 300px;
+  margin: auto 5px;
+  margin-right: 1100px 1100px 1000px 300px;
 }
 
 /* about header */
